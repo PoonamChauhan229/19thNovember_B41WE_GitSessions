@@ -11,3 +11,21 @@ After once pushing, if there is any changes:
 git add .
 git commit -m"gitcommands added"
 git push
+
+
+2nd way:
+git init
+git remote add origin https://github.com/PoonamChauhan229/19thNov_GitSession.git
+git add .
+git commit -m"gitcommands added"
+git push
+---
+git push --set-upstream origin master
+
+
+After once pushing, if there is any changes:
+git add .
+git commit -m"gitcommands added"
+git push
+
+
