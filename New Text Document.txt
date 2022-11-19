@@ -1,0 +1,4 @@
+1st way:
+
+git config --list
+git clone repourl
