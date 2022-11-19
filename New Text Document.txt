@@ -2,3 +2,6 @@
 
 git config --list
 git clone repourl
+git add .
+git commit -m"gitcommands added"
+git push
